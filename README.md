@@ -1,2 +1,2 @@
 # CustomProtocol
-web使用app字体demo
+web使用app字体demo。其主要思想是使用CustomProtocol拦截web的http请求，如果是字体的请求，则返回本地的字体数据。
