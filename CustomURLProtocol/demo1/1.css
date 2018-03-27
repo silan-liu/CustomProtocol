@@ -1,0 +1,25 @@
+@font-face {
+font-family: 'Yuanti-SC-Regular';
+src: url('Yuanti-SC-Regular.ttf')  format('truetype') 
+}
+    
+.p1 { 
+font-family: "Yuanti-SC-Regular";
+font-size: 30pt;
+color: blue;
+}
+
+p {
+    font-size: 30;
+    color: red
+}
+
+/* 类选择器 */
+.center {
+    text-align: center
+}
+
+/* id选择器 */
+#green {
+    color: green
+}
